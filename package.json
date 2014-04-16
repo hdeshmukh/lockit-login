@@ -24,7 +24,7 @@
   "dependencies": {
     "ms": "~0.6.2",
     "moment": "~2.4.0",
-    "lockit-utils": "0.2.0",
+    "lockit-utils": "https://github.com/hdeshmukh/lockit-utilities/archive/v0.2.0.tar.gz",
     "couch-pwd": "0.0.1"
   },
   "devDependencies": {
